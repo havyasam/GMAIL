@@ -3,40 +3,54 @@
     background-color:rgb(240, 245, 252);
     display: flex;
     justify-content:center;
-    gap: 15px;
+    
 }
 .mail{
     margin-right: 100px;
+    
 }
 .search{
     margin-right: 25rem;
 }
 
 form.example input[type=text] {
-    
-    border-radius: 25px;
+    outline: none;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
     padding: 10px;
     margin-top: 20px;
     font-size: 17px;
     border: 1px solid grey;
+    border-left:   white;
     float: left;
     width: 700px;
     height: 30px;
+   
     background:rgb(233, 243, 255);
   }
+  
   .font-mail{
     font-size: 30px;
     color: rgb(83, 80, 80);
   }
   .mail-image{
     padding-top: 30px;
+    padding-right: 13px;
   }
   .search-image{
-    position: absolute;
-    padding-top: 35px;
-    padding-left: 15px;
+  margin-top: 20px;
+  padding-right: 5px;
+  padding-left: 19px;
+  padding-top: 13px;
+  padding-bottom: 12px;
+  border: solid 1px grey;
+  border-right: white;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  background-color: rgb(233, 243, 255);
 
   }
+  
   .slider-image{
     position: absolute;
     margin-left: 680px;
@@ -46,14 +60,22 @@ form.example input[type=text] {
     padding-top: 30px;
   }
   .add{
-    padding-right: 20px;
+    padding-left: 350px;
   }
   .setting{
-    padding-right: 20px;
+    padding-left: 40px;
   }
   .account{
-    padding-right:20px;
+    padding-top: 36px;
+    padding-left:40px;
   }
   .sign{
-    padding-left: 20px;
+    padding-left: 40px;
   }
+  .sidebar{
+    text-align: center;
+    height: 100vh;
+    width: 250px;
+    background: rgb(240, 245, 252);
+  }
+  
