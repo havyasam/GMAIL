@@ -1,0 +1,59 @@
+
+.main-flex{
+    background-color:rgb(240, 245, 252);
+    display: flex;
+    justify-content:center;
+    gap: 15px;
+}
+.mail{
+    margin-right: 100px;
+}
+.search{
+    margin-right: 25rem;
+}
+
+form.example input[type=text] {
+    
+    border-radius: 25px;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 700px;
+    height: 30px;
+    background:rgb(233, 243, 255);
+  }
+  .font-mail{
+    font-size: 30px;
+    color: rgb(83, 80, 80);
+  }
+  .mail-image{
+    padding-top: 30px;
+  }
+  .search-image{
+    position: absolute;
+    padding-top: 35px;
+    padding-left: 15px;
+
+  }
+  .slider-image{
+    position: absolute;
+    margin-left: 680px;
+    padding-top: 35px;
+  }
+  .icon-padding{
+    padding-top: 30px;
+  }
+  .add{
+    padding-right: 20px;
+  }
+  .setting{
+    padding-right: 20px;
+  }
+  .account{
+    padding-right:20px;
+  }
+  .sign{
+    padding-left: 20px;
+  }
