@@ -6,20 +6,21 @@
     
 }
 .mail{
-    margin-right: 100px;
+    margin-right: 10px;
     
 }
 .search{
-    margin-right: 25rem;
+    margin-right: 10px;
 }
 
 form.example input[type=text] {
     outline: none;
-  border-top-right-radius: 25px;
-  border-bottom-right-radius: 25px;
+     border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
     padding: 10px;
     margin-top: 20px;
     font-size: 17px;
+    margin-right: 95px;
     border: 1px solid grey;
     border-left:   white;
     float: left;
@@ -39,8 +40,8 @@ form.example input[type=text] {
   }
   .search-image{
   margin-top: 20px;
-  padding-right: 5px;
-  padding-left: 19px;
+  margin-left: 40px;
+  padding-left: 5px;
   padding-top: 13px;
   padding-bottom: 12px;
   border: solid 1px grey;
