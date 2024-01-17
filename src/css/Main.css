@@ -6,7 +6,8 @@
     
 }
 .mail{
-    margin-right: 10px;
+  margin-right: 70px;
+    
     
 }
 .search{
@@ -20,7 +21,8 @@ form.example input[type=text] {
     padding: 10px;
     margin-top: 20px;
     font-size: 17px;
-    margin-right: 95px;
+    
+    margin-right: 170px;
     border: 1px solid grey;
     border-left:   white;
     float: left;
@@ -36,12 +38,13 @@ form.example input[type=text] {
   }
   .mail-image{
     padding-top: 30px;
-    padding-right: 13px;
+    
   }
   .search-image{
   margin-top: 20px;
-  margin-left: 40px;
-  padding-left: 5px;
+  
+  
+  padding-left: 15px;
   padding-top: 13px;
   padding-bottom: 12px;
   border: solid 1px grey;
